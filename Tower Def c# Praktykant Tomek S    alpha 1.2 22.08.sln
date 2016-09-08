@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2D99AEDB-CB5F-EB4D-FA26-0D3368F09520}") = "Tower Def c# Praktykant Tomek S    alpha 1.2 22.08", "Assembly-CSharp.csproj", "{51051285-F7CF-0C08-8986-530937A749CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51051285-F7CF-0C08-8986-530937A749CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51051285-F7CF-0C08-8986-530937A749CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51051285-F7CF-0C08-8986-530937A749CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51051285-F7CF-0C08-8986-530937A749CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
